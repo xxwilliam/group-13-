@@ -78,4 +78,76 @@ I never knew much about it before researching this topic but now I am looking fo
  [Accessed 9 Oct. 2021].</p>
 <p>Admin, Q. (2020). Natural Language Processing Explained: How Can it Impact My Business? [online] Quantilus. Available at: https://quantilus.com/natural-language-processing-explained-how-can-it-impact-my-business/
  [Accessed 9 Oct. 2021].</p>
-‌
+
+ 
+ <h1>Autonomous Vehicles.</h1>
+ 
+ <p><b>Autonomous Vehicles by William Hansen.</b></p>
+ 
+ 
+<p>What is an Autonomous Vehicle?In simple terms it is a vehicle that drives by itself, with little or no human interaction. Along a predetermined path in <b>“auto pilot”.</b> And a terms it is a vehicle that drives by itself, with a predetermined program to get there safely. Autonomous Vehicles have come a long way. Experiments started in the 1920’s, and trials began in the 1950’s. Jump to 1977 for example, the 1st semi-automated vehicle was developed by Japan’s Tsukuba Mechanical Engineering lab. And that vehicle drove along a specially designed street with a top speed of 30 klms (19 mph). On an elevated rail. The tech back then was an analog computer and 2 cameras. Fast forward to the 5th of march, 2021, Honda introduced a limited edition<b> Legend Hybrid EX.</b> With a level 3 Automated driving , (See below for the different levels). But this vehicle was discontinued in June 2021. The technology involved is a range of different systems, including navigation systems, location systems, the global path planning, environment perception, laser perception, laser perception, radar perception,
+ visual perception, vehicle control system.</p>
+ <p>All vehicles will need some form of machine vision, Eg (meaning it is a technology used to provide imaging-based analysis), and also some will have deep neural networks. Deep learning methods are based on artificial neural networks with representation learning, it can be supervised, semi-supervised or unsupervised. The neural network depends on an extensive amount of data extracted from (real life driving). There are 5 (but if you count level 0 then it's 6) levels of driving automation.</p>
+
+<p> <b>Level 0.</b> Warning systems may monentinarly intervene but no sustained vehicle control, Reversing cameras, speedo checks.</p>
+<p> <b>Level 1.</b> (hands on) Driver controls steering and automated system controls speed or engine and brake power, eg cruise control.</p>
+<p> <b>Level 2.</b> (hands off) Automated system has full control of vehicle, eg speed,braking and steering, but the driver has to be prepared to intervene immediately if the system fails to respond properly.</p>
+<p> <b>Level 3.</b> (Eyes Off) The driver can text, or watch a movie and the vehicle will handle situations that call for immediate attention, eg emergency braking. The driver must still intervene within a short time.</p>
+ <p><b>Level 4.</b> (mind off). Same as level 3, but no driver attention required for safety. This is for vehicles in spatial areas ( geofenced) or under special circumstances.</p>
+<p> <b>Level 5.</b> (Steering wheel optional), No human intervention needed,sit back and enjoy the ride.</p>
+
+ 
+ 
+Info from
+en.wikipedia.org/wiki/self-driving_car#technol
+ogy.com
+
+
+<p>Full Autonomous Vehicles are a long way (decades) from being commercially viable as more technology is needed to ensure the
+safety of the public. What technology and other development needed to make this possible? More powerful sensors, actuators,
+complex algorithms, machine learning systems,and processors to execute software. Some safety and security cameras, AI,network infrastructure ,radar and lidar.</p>
+
+ <p>What is the likely impact?</p>
+
+<p>The potential impact would have its pros and cons like any sort of development. The pros would be safer roads,more reliable transport, eg buses, taxis, trains. Cheaper for transport companies,on time deliveries, human’s spending more time with family and friends. The cons would be no transportation jobs truck drivers, taxi drivers and such. It will change how some people live, like re-training for other jobs like in the computer industry.IT. It will also help some people who have a disability, or people who have a fear of driving, less road rage incidents and traffic accidents. Potentially less deaths as well. But the loss of jobs may not be limited to the transport industry, Miners,smelt workers, may be affected as well due to the amount of natural resources used to make the vehicles, and even then people may look for artificialmaterial <b>( man made)</b> to make the vehicles, eg the bodies of the vehicles, copper wire. Even the materials used to make the engines and tires, so more jobs may be lost or replaced. The social impact would not be good for those who are educationally challenged for them toget a job in the transport industry. Autonomous vehicles would have to be secured from hackers, other wise the transport vehicles could be used as land missiles, highly unlikely but it could happen, or the machines could take over. It would also greatly impact motor racing. Maybe.</p>
+
+<p>How will this impact me?. It would greatly impact my life as I love driving my car, feeling the engine and being in control and not relying on a machine to do the driving. I don't think I could trust a computer no matter how good it is, for some of the reasons I have mentioned, corrupted software, hackers. I like to be in control of my life, but in saying that if they were to come on the market in a few years time I wouldn't have to teach my daughter how to drive. I have taught my wife and 3 sons to drive and all got their licence on the 1st try. So in reality it won’t have a big impact on my life at this point in time, but it might for my grandchildren and their children. Another big impact would be getting my deliveries on time, and as for an impact on my friends well i don't have any so no worry there and my family well my kids love driving as much as i do, And my son works at a tire place so it might have an impact on his life. Also having Autonomous vehicles would make us (human’s) a bit more lazy like in the movie (wally) where very thing was Automated.</p>
+
+
+
+
+<p> links 
+ https://en.wikipedia.org/wiki/Self-driving_car.</p>
+
+<p>Taeihagh, Araz; Lim, Hazel Si Min (2 January 2019). "Governing autonomous vehicles: emerging responses for safety,
+ liability,
+ privacy, cybersecurity, and industry risks". Transport Reviews. 39 (1): 103–128. arXiv:1807.05720.</p>
+
+<p>Lee, Timothy B. (8 October 2020). "Waymo finally launches an actual public, driverless taxi service". Ars Technica.
+ Retrieved 22 December 2020.</p>
+
+<p>Levin, Tim (22 December 2020). "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021".
+ Business Insider Australia. Retrieved 22 December 2020.</p>
+
+ <p>"SAE Self-Driving Levels 0 to 5 for Automation – What They Mean". 23 January 2020.</p>
+
+<p>Daily, Mike; Medasani, Swarup; Behringer, Reinhold; Trivedi, Mohan (December 2017). "Self-Driving Cars". Computer. 50 (12):
+ 18–23. doi:10.1109/MC.2017.4451204. ISSN 1558-0814.</p>
+
+ <p>"Traffic Jam Chauffeur: Autonomous driving in traffic jams". 28 August 2016.</p>
+
+
+
+ <p>Wikipedia.</p>
+
+<p>"How Honda's Level 3 self-driving technology works". Automotive News Europe. 5 March 2021. Retrieved 5 March 2021.</p>
+
+<p>https://emerj.com/ai-adoption-timelines/self-driving-car-timeline-themselves-top-11-automakers/</p>
+
+ <p>The self driving car timeline predictions from the top 11 global automakers.</p> 
+
+<p>https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html</p>
+
+ <p>Artifical intelligence driving autonomous vehicle development</p>
+ 
+ 
