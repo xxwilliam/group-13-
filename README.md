@@ -41,6 +41,8 @@ The Conversation. 2021. Elon Musk’s Tesla Bot raises serious concerns – but 
   
 <p>Staff, R., 2021. 7 Key Robot Applications in Automotive Manufacturing. [online] Robotics Business Review. Available at: <https://www.roboticsbusinessreview.com/manufacturing/7-key-robot-applications-in-automotive-manufacturing/> [Accessed 9 October 2021].</p>
  
+ 
+ 
  <h1>Natural Language processing (NLP) and chatterbots.</h1>
  
  <p><b> Natural language Processing and Chatterbots by Madiha Sabahat.</b></p>
@@ -79,6 +81,7 @@ I never knew much about it before researching this topic but now I am looking fo
 <p>Admin, Q. (2020). Natural Language Processing Explained: How Can it Impact My Business? [online] Quantilus. Available at: https://quantilus.com/natural-language-processing-explained-how-can-it-impact-my-business/
  [Accessed 9 Oct. 2021].</p>
 
+ 
  
  <h1>Autonomous Vehicles.</h1>
  
