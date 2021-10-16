@@ -154,3 +154,69 @@ complex algorithms, machine learning systems,and processors to execute software.
  <p>Artifical intelligence driving autonomous vehicle development</p>
  
  
+ Ideal Job
+
+The ideal jobs in our group fall in two categories: Cyber Security and Tech Support. Samantha Kurilic’s ideal job is Desktop Support, Alexander Ball’s ideal job is IT support, William Hansen’s ideal job is Cyber security Analyst and Madiha Sabahat’s Ideal job is Cyber forensics Analyst.
+Everyone in our group has a slightly different path than the others but there still are some similarities. 
+
+
+Desktop Support
+IT support
+Cyber Security Analyst
+Cyber Forensics Analyst
+Responsibilities
+Solving basic problems including product features, return policies about a product and delivery schedule etc.
+Resolving concerns of Technical Nature including installing software, resolving or fixing hardware malfunction
+Implementing and maintaining a robust information security system and defending from cyber attacks
+Identifying Hacks, understanding the source and recovering the compromised data
+Skills
+Microsoft Office, ITIL, Technical support, Customer Service, Communication skills
+Communication, problem solving, Organisational skills, troubleshooting, Quality Assurance and Control
+
+
+Knowledge of operating systems and technologies, JAVA, SQL, JavaScript, Python, Firewall, Pearl, PHP, C+, Project management
+Career Path
+Desktop Support Level 1
+                ↓
+
+Senior Desktop Support
+IT support Level 1/2
+            
+                ↓
+
+Network engineering, database administration, project manager.
+Cyber Security Specialist
+                ↓
+
+Cyber Security Manager
+Cyber Forensic Analyst
+
+                    ↓
+
+Cyber Forensics expert
+Experience needed
+1-3 Years
+1-3 years
+3 years of relevant experience
+2-3 Years
+Qualifications Needed
+Bachelors in Information Technology or Computer Science and any related Certification or Diploma
+Bachelors of Information Technology or Diploma of IT, Support Technician Certificate
+Bachelors’ degree in computer science or IT. Relevant Diplomas and Certification.
+Bachelors in Information Technology or Computer science, Masters in cyber forensics, Relevant Certification and Diplomas.
+
+
+
+Similarities, Differences and Conclusion: 
+Desktop support and IT support are very similar to each other but also different in a few ways. Both these jobs require advanced Customer Service skills. Other Skills needed and Qualifications needed for these jobs are also almost identical to each other. Desktop support personnel help resolve the basic customer problems regarding any product e.g., shipping status, return policies, they do not help with technical issues, while IT support personnel help with resolving the technical problems of customers e.g., installing software, resolving or fixing hardware malfunctions.
+Cyber security Analyst and Cyber Forensic Analyst both focus on protection of digital assets. The work they both do is very similar but still different in some ways. Cybersecurity is basically about prevention. Cyber Security Analyst prevents the organizations from cyber-attacks, Cyber forensics is about response. If the cyber security fails, a Cyber forensics Analyst can help identify the problems or hacks and help resolve them. Cyber security personnel’s help build the security system and Forensic personnel’s help resolve the issues in the case of a breach.
+Our ideal jobs and Career pathways are very different from each other. Some of us want to start from entry level jobs and progress our career on the way and others intend to complete qualifications needed and then start a career. Skills, Qualifications or responsibilities might differ but eagerness to start a career in IT is the same. 
+Sources: 
+https://online.champlain.edu/blog/difference-between-cybersecurity-and-computer-forensics
+https://roicallcentersolutions.com/tech-support/help-desk-vs-technical-support/
+https://www.proprofsdesk.com/blog/what-is-the-difference-between-help-desk-and-desktop-support/
+https://www.seek.com.au/career-advice/role/information-technology-support-officer
+https://www.cyberdegrees.org/jobs/computer-forensics/
+
+
+ 
