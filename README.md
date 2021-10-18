@@ -164,7 +164,13 @@ table, th, td {
 The ideal jobs in our group fall in two categories: Cyber Security and Tech Support. Samantha Kurilic’s ideal job is Desktop Support, Alexander Ball’s ideal job is IT support, William Hansen’s ideal job is Cyber security Analyst and Madiha Sabahat’s Ideal job is Cyber forensics Analyst.
 Everyone in our group has a slightly different path than the others but there still are some similarities. 
 
-
+ <style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
+ 
 Desktop Support
 IT support
 Cyber Security Analyst
@@ -210,7 +216,7 @@ Bachelors of Information Technology or Diploma of IT, Support Technician Certifi
 Bachelors’ degree in computer science or IT. Relevant Diplomas and Certification.
 Bachelors in Information Technology or Computer science, Masters in cyber forensics, Relevant Certification and Diplomas.
 
-
+ </style>
 
 Similarities, Differences and Conclusion: 
 Desktop support and IT support are very similar to each other but also different in a few ways. Both these jobs require advanced Customer Service skills. Other Skills needed and Qualifications needed for these jobs are also almost identical to each other. Desktop support personnel help resolve the basic customer problems regarding any product e.g., shipping status, return policies, they do not help with technical issues, while IT support personnel help with resolving the technical problems of customers e.g., installing software, resolving or fixing hardware malfunctions.
