@@ -192,9 +192,9 @@ complex algorithms, machine learning systems,and processors to execute software.
 <p>All four people in our group have different interests and different career paths. The job titles for our group’s ideal jobs are as following.
 
 <p>&#9733; Cyber Security Specialist <b>(William Hansen)</b></p>
-<p>&#9733: Cyber Forensics Specialist <b>(Madiha Sabahat)</b></p>
-<p>&#9733: IT Support Officer <b>(Alexander Ball)</b></p>
-<p>&#9733: Desktop Support <b>(Samantha Kurilic)</b></p>
+<p>&#9733; Cyber Forensics Specialist <b>(Madiha Sabahat)</b></p>
+<p>&#9733; IT Support Officer <b>(Alexander Ball)</b></p>
+<p>&#9733; Desktop Support <b>(Samantha Kurilic)</b></p>
  
 <p>In our group Cyber Security specialist is the top ranked job in demand from employers. According to this blog ( https://blog.y-axis.com/which-occupations-are-in-demand-in-australia-in-2021/) ICT security specialists rank 20 overall in Australia in demand from employers this year. In the past few years we have seen and heard about numerous global cyber-attacks, credit card thefts, and sensitive information leaked. These incidents have sparked an interest among organizations in hiring more ICT security specialists, so that they could protect their organizations from cyber-attacks.
 IT support Officers are always in demand as well. Different organizations and industries including public administration, information technology, insurance, finance and retail trade hire them. IT Support Officers are always in demand but in current times the demand for this job has increased even more because they are crucial for business. According to an article published in technojobs.co.uk, IT support officers ranked number 2 in demand from employers in 2020. <b>(https://www.technojobs.co.uk/info/career-advice/10-most-in-demand-it-jobs-for-2020.phtml)</b>
@@ -206,24 +206,24 @@ Cyber Security jobs are very in demand, that includes Cyber forensics Specialist
 <p>Ideal jobs in our group are very different from each other and require a wide skill set. Most of the skills needed are different but the basics are still the same.  There are two types of skills. One is IT specific and the other is General skills.
 IT specific skill set:</p>
 
-<p>&#9733          SQL</p>
-<p>&#9733:         JavaScript</p>
-<p>&#9733:         JAVA</p>
-<p>&#9733:         Microsoft Windows</p>
-<p>&#9733:         Project Management</p>
+<p>&#9733;         SQL</p>
+<p>&#9733;         JavaScript</p>
+<p>&#9733;         JAVA</p>
+<p>&#9733;         Microsoft Windows</p>
+<p>&#9733;         Project Management</p>
 <p>&#9733;         SAP</p>
-<p>&#9733:         C+</p>
-<p>&#9733:         Customer service</p>
-<p>&#9733          Software engineering</p>
-<p>&#9733:         Microsoft Office</p>
-<p>&#9733:         Oracle</p>
+<p>&#9733;         C+</p>
+<p>&#9733;         Customer service</p>
+<p>&#9733;         Software engineering</p>
+<p>&#9733;         Microsoft Office</p>
+<p>&#9733;         Oracle</p>
 <p>&#9733;         ITIL</p>
 <p>&#9733;         Git</p>
 <p>&#9733;         Python</p>
-<p>&#9733          Business Process</p>
+<p>&#9733;         Business Process</p>
 <p>&#9733;         SIEM management</p>
 <p>&#9733;         Audit and compliance</p>
-<p>&#9733:         Firewall/IDS/IPS skills</p>
+<p>&#9733;         Firewall/IDS/IPS skills</p>
 <p>&#9733;         Bash</p>
 <p>&#9733;         Peral</p>
 <p>&#9733;         PHP</p>
@@ -236,14 +236,14 @@ IT specific skill set:</p>
 <p>&#9733;         Writing</p>
 <p>&#9733;         Teamwork/Collaboration</p>
 <p>&#9733;         Troubleshooting</p>
-<p>&#9733          Planning</p>
+<p>&#9733;         Planning</p>
 <P>&#9733;         Leadership</p>
 <p>&#9733;         Meeting deadlines</p>
 <p>&#9733;         Time management</p>
 <p>&#9733;         Analytical skills</p>
 <p>&#9733;         Decision making</p>
 <p>&#9733;         Critical thinking</p>
-<p>&#9733          Understanding of law</p>
+<p>&#9733;         Understanding of law</p>
 <p>&#9733;         Quality assurance and control</p>
 
 <p>These skills are also ranked in order, in terms of demand from employers, communication skill being the highest.
