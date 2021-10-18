@@ -220,7 +220,7 @@ https://www.cyberdegrees.org/jobs/computer-forensics/
 
 
 
-Project Ideas
+ <h1><b>Project Ideas.</b></h1>
 
 
 Project Idea:
