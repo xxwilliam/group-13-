@@ -153,7 +153,12 @@ complex algorithms, machine learning systems,and processors to execute software.
 
  <p>Artifical intelligence driving autonomous vehicle development</p>
  
- 
+ <style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
  Ideal Job
 
 The ideal jobs in our group fall in two categories: Cyber Security and Tech Support. Samantha Kurilic’s ideal job is Desktop Support, Alexander Ball’s ideal job is IT support, William Hansen’s ideal job is Cyber security Analyst and Madiha Sabahat’s Ideal job is Cyber forensics Analyst.
