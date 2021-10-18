@@ -153,12 +153,7 @@ complex algorithms, machine learning systems,and processors to execute software.
 
  <p>Artifical intelligence driving autonomous vehicle development</p>
  
- <style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
+ 
  Ideal Job
 
 The ideal jobs in our group fall in two categories: Cyber Security and Tech Support. Samantha Kurilic’s ideal job is Desktop Support, Alexander Ball’s ideal job is IT support, William Hansen’s ideal job is Cyber security Analyst and Madiha Sabahat’s Ideal job is Cyber forensics Analyst.
@@ -170,11 +165,19 @@ table, th, td {
   border-collapse: collapse;
 }
 </style>
- 
-Desktop Support
-IT support
-Cyber Security Analyst
-Cyber Forensics Analyst
+ <h2>Ideal Job</h2> 
+ <body>
+ <h2>TH elements define table headers</h2>
+  
+,table style="width:80%>
+<tr>
+  <th></th>  
+ <th> Desktop Support</th>
+ <th>IT support</th>
+ <th>Cyber Security Analyst</th>
+ <th>Cyber Forensics Analyst</th>
+  </tr>
+  <tr>
 Responsibilities
 Solving basic problems including product features, return policies about a product and delivery schedule etc.
 Resolving concerns of Technical Nature including installing software, resolving or fixing hardware malfunction
