@@ -272,7 +272,7 @@ The Balance Careers List of Important Technical Skills With Examples (thebalance
   
  
 
- <p><h2><b> Ideal Job</h2></p>
+ <p><h2><b>Ideal Job</h2></p>
 
 <p>The ideal jobs in our group fall in two categories: Cyber Security and Tech Support. <b>Samantha Kurilic’s </b>ideal job is Desktop Support,<b> Alexander Ball’s</b> ideal job is IT support, <b>William Hansen’s</b> ideal job is Cyber security Analyst and <b>Madiha Sabahat’s </b>Ideal job is Cyber forensics Analyst.
 Everyone in our group has a slightly different path than the others but there still are some similarities.</p> 
@@ -286,7 +286,7 @@ Everyone in our group has a slightly different path than the others but there st
     <th>Cyber Security Specialist</th>
     <th>Cyber Forensics Specialist</th>
 </tr>
-  <tr style="height:100px">
+  <tr> style="height:100px">
     <td>Responsibilities</td>
     <td>Solving basic problems including product features, return policies about a product and delivery schedule atc.</td>
     <td>Resolving concerns of a Technical Nature including installing software, resolving or fixing hardware malfunction </td>
