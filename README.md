@@ -303,13 +303,13 @@ Everyone in our group has a slightly different path than the others but there st
 </tr>
   <tr style="height:100px">
     <td>Career Path</td>
-   <td><p>desktop Support level Senior </p><p><span style='font-size:50px;'>&#8595; </span</p>
+   <td><p>desktop Support level Senior </p><p>< style='font-size:50px;'>&#8595; </p>
 <p>Desktop Support</p></td>
-    <td><p>IT Support Level 1/2</p><p><style'font-size:50px'>&#8595; </span</p>
+    <td><p>IT Support Level 1/2</p><p><style'font-size:50px'>&#8595; </p>
 <p>Network Engineering, Database Administration, project manager.</p></td>
-    <td>Cyber Security Specialist </p><p><span style='font-size:50px;'>&#8595; </span</p>
+    <td>Cyber Security Specialist </p><p>< style='font-size:50px;'>&#8595; </p>
 <p>Cyber Security manager</p></td>
-    <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </p>
+    <td><p>Cyber Forensic Analyst </p><p>< style='font-size:50px;'>&#8595; </p>
 Cyber Forensics Expert</td>
   </tr>
     <tr style="height:50px">
