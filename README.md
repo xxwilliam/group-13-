@@ -308,7 +308,7 @@ Everyone in our group has a slightly different path than the others but there st
 <p>Network Engineering, Database Administration, project manager.</p></td>
     <td>Cyber Security Specialist </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Cyber Security manager</p></td>
-    <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </span</p>
+    <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </p>
 <p>Cyber Forensics Expert</p></td>
   <tr>
    <td><p>Experience Needed</p></td>
