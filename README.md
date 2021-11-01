@@ -281,6 +281,8 @@ Everyone in our group has a slightly different path than the others but there st
 table, th, td {
   border:1px solid black;
  }
+ </style>
+ <body>
 <table style="width:100%">
   <tr>
     <th></th>
@@ -289,14 +291,14 @@ table, th, td {
     <th>Cyber Security Specialist</th>
     <th>Cyber Forensics Specialist</th>
 </tr>
-  <tr> style="height:100px">
+  <tr style="height:100px">
     <td>Responsibilities</td>
     <td>Solving basic problems including product features, return policies about a product and delivery schedule atc.</td>
     <td>Resolving concerns of a Technical Nature including installing software, resolving or fixing hardware malfunction </td>
     <td>Implementing and maintaining a robust information security system and defending from cyber attacks</td>
    <td>Identifing hacks,understanding the source and recovering the compromised data</td>
 </tr>
-  <tr>
+  <tr style="height:100px">
     <td>Skills</td>
     <td>Mircosoft Office, ITIL, technical suppot, Customer Service, Communication Skills</td>
     <td>Communication, Problem solving, Organisational skills,trouble shooting, quality assurance and control</td>
@@ -322,11 +324,11 @@ table, th, td {
    <td><p>2-3 Years</p></td>
   </tr>
     <tr>
-   <td>Qualifications Needed</td>
-    <td>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
-   <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
-   <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</td>
-    <td>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td>
+   <td><p>Qualifications Needed</td>
+    <td>,p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
+     <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
+     <td><p>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</p></td>
+    <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</p></td>
   </tr>
 </table>
 
