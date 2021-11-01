@@ -337,7 +337,7 @@ Our ideal jobs and Career pathways are very different from each other. Some of u
 [Accessed 15 Oct. 2021].</b></p>
 ‌<p><b>ProProfs Help Desk Blog. (2021). Help Desk VS Desktop Support: How Are They Different? [online] Available at: https://www.proprofsdesk.com/blog/what-is-the-difference-between-help-desk-and-desktop-support/
  [Accessed 15 Oct. 2021].</b></p>
-<p>,b>‌SEEK Career Advice AU. (n.d.). How to become an IT Support Officer - Salary, Qualifications & Reviews – SEEK. [online] Available at: https://www.seek.com.au/career-advice/role/information-technology-support-officer.</b></p>
+<p>,<b>‌SEEK Career Advice AU. (n.d.). How to become an IT Support Officer - Salary, Qualifications & Reviews – SEEK. [online] Available at: https://www.seek.com.au/career-advice/role/information-technology-support-officer.</b></p>
 
 <h1><p>Project Idea.</p></h1>
 
