@@ -319,12 +319,12 @@ Everyone in our group has a slightly different path than the others but there st
    <td><p>2-3 Years</p></td>
   </tr>
     <tr>
-   <td><p>Qualifications Needed</p></td>
-    <td><p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
-   <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
-   <td><p>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</p></td>
-    <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td></p>
- </tr>
+   <td>Qualifications Needed</td>
+    <td>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
+   <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
+   <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</td>
+    <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td>
+  </tr>
 </table>
 
 <p><h1>Similarities, Differences and Conclusion:</h1></p>
