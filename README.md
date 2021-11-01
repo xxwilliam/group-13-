@@ -310,19 +310,21 @@ Everyone in our group has a slightly different path than the others but there st
 <p>Cyber Security manager</p></td>
     <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </p>
 <p>Cyber Forensics Expert</p></td>
-  <tr>
+  </tr>
+    <tr>
    <td><p>Experience Needed</p></td>
    <td><p>1-3 Years</p></td>
    <td><p>1-3 Years</p></td>
    <td><p>3 Years of relevant Experience</p></td>
    <td><p>2-3 Years</p></td>
-  <tr>
+  </tr>
+    <tr>
    <td><p>Qualifications Needed</p></td>
     <td><p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
    <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
    <td><p>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</p></td>
     <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td></p>
-
+ </tr>
 </table>
 
 <p><h1>Similarities, Differences and Conclusion:</h1></p>
