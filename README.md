@@ -310,7 +310,7 @@ Everyone in our group has a slightly different path than the others but there st
     <td>Cyber Security Specialist </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Cyber Security manager</p></td>
     <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </p>
-<p>Cyber Forensics Expert</p></td>
+Cyber Forensics Expert</td>
   </tr>
     <tr style="height:50px">
    <td><p>Experience Needed</p></td>
@@ -320,11 +320,11 @@ Everyone in our group has a slightly different path than the others but there st
    <td><p>2-3 Years</p></td>
   </tr>
     <tr style="height:150px">
-   <td><p>Qualifications Needed</td>
-    <td>,p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
-     <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
-     <td><p>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</p></td>
-    <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</p></td>
+   <td>Qualifications Needed</td>
+    <td>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
+     <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
+     <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</td>
+    <td>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td>
   </tr>
 </table>
 
