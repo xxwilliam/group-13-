@@ -305,7 +305,7 @@ table, th, td {
     <td></td>
     <td>knowledge of operating systems and technolgies, Java, Javascript SQL, Python, Firewall, Pearl, PHP, C+, project management</td>
 </tr>
-  <tr>
+  <tr style="height:100px">
     <td>Career Path</td>
    <td><p>desktop Support level Senior </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Desktop Support</p></td>
@@ -316,14 +316,14 @@ table, th, td {
     <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </p>
 <p>Cyber Forensics Expert</p></td>
   </tr>
-    <tr>
+    <tr style="height:50px">
    <td><p>Experience Needed</p></td>
    <td><p>1-3 Years</p></td>
    <td><p>1-3 Years</p></td>
    <td><p>3 Years of relevant Experience</p></td>
    <td><p>2-3 Years</p></td>
   </tr>
-    <tr>
+    <tr style="height:150px">
    <td><p>Qualifications Needed</td>
     <td>,p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
      <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
