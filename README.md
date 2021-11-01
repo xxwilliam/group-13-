@@ -305,7 +305,7 @@ Everyone in our group has a slightly different path than the others but there st
     <td>Career Path</td>
    <td><p>desktop Support level Senior </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Desktop Support</p></td>
-    <td><p>IT Support Level 1/2&#8595; </span</p>
+    <td><p>IT Support Level 1/2</p><p><style'font-size:50px'>&#8595; </span</p>
 <p>Network Engineering, Database Administration, project manager.</p></td>
     <td>Cyber Security Specialist </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Cyber Security manager</p></td>
