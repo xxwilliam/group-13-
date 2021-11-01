@@ -291,7 +291,7 @@ Everyone in our group has a slightly different path than the others but there st
     <td>Solving basic problems including product features, return policies about a product and delivery schedule atc.</td>
     <td>Resolving concerns of a Technical Nature including installing software, resolving or fixing hardware malfunction </td>
     <td>Implementing and maintaining a robust information security system and defending from cyber attacks</td>
-    <td>Identifing hacks,understanding the source and recovering the compromised data</td
+   <td>Identifing hacks,understanding the source and recovering the compromised data</td>
 </tr>
   <tr>
     <td>Skills</td>
@@ -322,7 +322,7 @@ Everyone in our group has a slightly different path than the others but there st
     <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
     <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,/td>
     <td>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td></p>
-</tr>
+
 </table>
 
 <p><h1>Similarities, Differences and Conclusion:</h1></p>
