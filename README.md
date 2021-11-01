@@ -302,26 +302,26 @@ Everyone in our group has a slightly different path than the others but there st
 </tr>
   <tr>
     <td>Career Path</td>
-    <td><p>desktop Support level Senior <p><span style='font-size:50px;'>&#8595; </span> </p>
+   <td><p>desktop Support level Senior </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Desktop Support</p></td>
-    <td><p>IT Support Level 1/2</p><span style='font-size:50px;'>&#8595; </span> </p>
+    <td><p>IT Support Level 1/2</p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Network Engineering, Database Administration, project manager.</p></td>
-    <td>Cyber Security Specialist </p><span style='font-size:50px;'>&#8595; </span></p>
+    <td>Cyber Security Specialist </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Cyber Security manager</p></td>
-    <td>Cyber Forensic Analyst </p><span style='font-size:50px;'>&#8595; </span></p>
+    <td><p>Cyber Forensic Analyst </p><p><span style='font-size:50px;'>&#8595; </span</p>
 <p>Cyber Forensics Expert</p></td>
   <tr>
-    <td>Experience Needed</td>
-    <td>1-3 Years</td>
-    <td>1-3 Years</td>
-    <td>3 Years of relevant Experience</td>
-    <td>2-3 Years</td>
+   <td><p>Experience Needed</p></td>
+   <td><p>1-3 Years</p></td>
+   <td><p>1-3 Years</p></td>
+   <td><p>3 Years of relevant Experience</p></td>
+   <td><p>2-3 Years</p></td>
   <tr>
-    <td>Qualifications Needed</td>
-    <td>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
-    <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
-    <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,/td>
-    <td>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td></p>
+   <td><p>Qualifications Needed</p></td>
+    <td><p>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</p></td>
+   <td><p>Bachelors of Information technology or diploma of IT, Support Technician Certificate</p></td>
+   <td><p>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</p></td>
+    <td><p>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td></p>
 
 </table>
 
