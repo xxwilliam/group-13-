@@ -6,7 +6,7 @@
  </head>
  <body>
    <h1>Personal imformation</h1>
-<p><b> Names: Alexender (Alex) Ball, Madiha Sabahat, Samantha (sam) Kurlic, William (troy) hansen.</b>
+  <p><b> Names: Alexender (Alex) Ball,</b></p><p><b> Madiha Sabahat,</b></p><p><b> Samantha (sam) Kurlic,</b></p><p><b> William (troy) hansen.</b></p>
   
   My name is<b> Alexander (Alex) Ball</b>, I am 24 and I live on the Gold Coast with my Fiancé and Fur Baby. I currently work in the Electrical Wholesale Industry as an Internal Sales/Key Account Manager. I enjoy most sports (Mainly Basketball and Cricket) and I play video games and read in my spare time (Which I don't have much of!). I have always had an interest in the IT field but haven't been in the financial position until now.
  Test Result: Myers-Briggs Test: Type Adventurer (ISFP-A) Traits: Introverted-52% Observant-71% Feeling-53& Prospecting-63% Assertive-53% Role: Explorer. strategy: Confident Individualism. Learning Style Test: Tactile.
