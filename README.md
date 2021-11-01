@@ -282,7 +282,7 @@ table, th, td {
   border:1px solid black;
  }
  </style>
- <body>
+ 
 <table style="width:100%">
   <tr>
     <th></th>
