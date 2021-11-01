@@ -270,14 +270,7 @@ The Balance Careers List of Important Technical Skills With Examples (thebalance
 
  
   
-  
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
-<body>
+ 
 
 <h2><b> Ideal Job</h2>
 
