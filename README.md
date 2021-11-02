@@ -279,7 +279,7 @@ Everyone in our group has a slightly different path than the others but there st
 
 
 <table> 
-<table style="width:125%">
+<table style="width:150%">
 
  
  <tr>
@@ -303,7 +303,7 @@ Everyone in our group has a slightly different path than the others but there st
     <td></td>
     <td>knowledge of operating systems and technolgies, Java, Javascript SQL, Python, Firewall, Pearl, PHP, C+, project management</td>
 </tr>
- <tr style="height:100px">
+ <tr style="height:100px"> 
     <td>Career Path</td>
   <td><div class="center"><p>desktop Support level Senior</p><div class="center">
  <p><p style="font-size:300%;">&#8595;</p>
