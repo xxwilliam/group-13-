@@ -314,9 +314,9 @@ Everyone in our group has a slightly different path than the others but there st
 
 <p>Network Engineering, Database Administration, project manager.</p>
     <td><div class="center"><p>Cyber Security Specialist</div> </p><div class="center">
-  <p><p style="font-size:300%;">&#8595;</p>
-</div>
-<p>Cyber Security manager</p></td>
+  <p><p style="font-size:300%;">&#8595;</p></div>
+
+<p>Cyber Security manager</p>
     <td><div class="center"><p>Cyber Forensic Analyst </p><div class="center">
   <p><p style="font-size:300%;">&#8595;</p>
 </div>
