@@ -279,8 +279,16 @@ Everyone in our group has a slightly different path than the others but there st
 
 
  
-<table style="width:100%">
-  <tr>
+<table style="width:125%">
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  
+}
+</style>
+ 
+ <tr>
     <th></th>
     <th>Desktop support</th> 
     <th>IT support Officer</th>
