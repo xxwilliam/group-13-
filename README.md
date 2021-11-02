@@ -278,15 +278,9 @@ The Balance Careers List of Important Technical Skills With Examples (thebalance
 Everyone in our group has a slightly different path than the others but there still are some similarities.</p> 
 
 
- 
+<table> 
 <table style="width:125%">
-<style>
-.center {
-  margin: auto;
-  width: 70%;
-  
-}
-</style>
+
  
  <tr>
     <th></th>
