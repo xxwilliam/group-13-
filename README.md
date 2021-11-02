@@ -310,21 +310,22 @@ Everyone in our group has a slightly different path than the others but there st
     <td>knowledge of operating systems and technolgies, Java, Javascript SQL, Python, Firewall, Pearl, PHP, C+, project management</td>
 </tr>
  <tr style="height:100px">
+  <div {text-align: center;}
     <td>Career Path</td>
-  <td><div class="center"><p>desktop Support level Senior</p><div class="center">
-  <p><p style="font-size:300%;">&#8595;</p>
-</div>
+  <td><div class="center"><p>desktop Support level Senior</p>
+ <div><p style="font-size:300%;">&#8595;</div></p>
+
 <p>Desktop Support</p></td>
     <td><div class="center"><p>IT Support Level 1/2</p><div class="center">
-  <p><p style="font-size:160%;">&#8595;</p>
+  <p><p style="font-size:300%;">&#8595;</p>
 </div>
 <p>Network Engineering, Database Administration, project manager.</p></td>
     <td><div class="center"><p>Cyber Security Specialist</div> </p><div class="center">
-  <p><p style="font-size:160%;">&#8595;</p>
+  <p><p style="font-size:300%;">&#8595;</p>
 </div>
 <p>Cyber Security manager</p></td>
     <td><div class="center"><p>Cyber Forensic Analyst </p><div class="center">
-  <p><p style="font-size:160%;">&#8595;</p>
+  <p><p style="font-size:300%;">&#8595;</p>
 </div>
 Cyber Forensics Expert</td>
   </tr>
