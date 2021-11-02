@@ -311,7 +311,7 @@ Everyone in our group has a slightly different path than the others but there st
 </tr>
   <tr style="height:100px">
     <td>Career Path</td>
-   <td><div class="center"><p>desktop Support level Senior </p><div class="center">
+   <td><div class="center"><p>desktop Support level Senior </p><p><div class="center">
     <p><p style="font-size:160%;">&#8595;</p>  
  <p>Desktop Support</p></td>
     
