@@ -309,8 +309,8 @@ Everyone in our group has a slightly different path than the others but there st
  <p><p style="font-size:300%;">&#8595;</p>
    
 <p>Desktop Support</p>
-    <td><div class="center"><p>IT Support Level 1/2</p><div class="center">
-     <p><p style="font-size:300%;">&#8595;</p></div>
+    <td><div class="center"><p>IT Support Level 1/2</p><p><div class="center">
+     <p style="font-size:300%;">&#8595;</p></div>
 
 <p>Network Engineering, Database Administration, project manager.</p>
     <td><div class="center"><p>Cyber Security Specialist</div> </p><div class="center">
