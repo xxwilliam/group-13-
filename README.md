@@ -279,7 +279,7 @@ Everyone in our group has a slightly different path than the others but there st
 
 
 <table> 
-<table style="width:150%">
+<table style="width:125%">
 
  
  <tr>
