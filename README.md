@@ -283,7 +283,7 @@ Everyone in our group has a slightly different path than the others but there st
 <style>
 .center {
   margin: auto;
-  width: 60%;
+  width: 70%;
   
 }
 </style>
