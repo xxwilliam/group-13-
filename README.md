@@ -22,6 +22,15 @@ Personality type Defender, Traits: Introvert 80%, observant 62%, feeling 74%, ju
 
   <h1>Robotics:</h1>
   
+  <head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body
+  
   <p><b> Robotics by Alex Ball.</b></p>
   
    
@@ -40,7 +49,7 @@ Personality type Defender, Traits: Introvert 80%, observant 62%, feeling 74%, ju
 The Conversation. 2021. Elon Musk’s Tesla Bot raises serious concerns – but probably not the ones you think. [online] Available at: <https://theconversation.com/elon-musks-tesla-bot-raises-serious-concerns-but-probably-not-the-ones-you-think-166714> [Accessed 9 October 2021].</p>
   
 <p>Staff, R., 2021. 7 Key Robot Applications in Automotive Manufacturing. [online] Robotics Business Review. Available at: <https://www.roboticsbusinessreview.com/manufacturing/7-key-robot-applications-in-automotive-manufacturing/> [Accessed 9 October 2021].</p>
- 
+ </body> 
  
  
  <h1>Natural Language processing (NLP) and chatterbots.</h1>
